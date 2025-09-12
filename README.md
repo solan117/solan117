@@ -1,70 +1,257 @@
-# Hi, I'm Karan Solanki 👋
+<div align="center">
+  
+  # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"> Hey there, I'm Karan Solanki! 
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=header&text=Full-Stack%20SaaS%20Engineer&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=32" />
+  
+  ### 💻 Problem Solver • 🚀 Tech Enthusiast • ⚡ Performance Optimizer
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=🌟+Building+scalable+web+applications;🎯+4%2B+years+of+full-stack+experience;⚛️+React+%7C+TypeScript+%7C+Node.js+%7C+AWS;🔥+Always+learning+and+growing!&color=58A6FF" alt="Typing SVG" />
+  
+</div>
 
-I'm a **Full-Stack SaaS Engineer** with 4+ years of experience building scalable web applications, optimizing user experiences, and solving complex technical challenges. I specialize in **React, TypeScript, Node.js, and AWS**, delivering high-quality software solutions for enterprise clients.  
+<div align="center">
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://www.linkedin.com/in/solan117)
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717)](https://github.com/solan117)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=FF5722)](https://bluewavelabs.ca/)
+  
+</div>
 
-Currently, I'm contributing as a **Full-Stack Developer at [Blue Wave Labs](https://bluewavelabs.ca/)**, working on the **VerifyWise** project.  
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,6,17,11&height=40&section=footer&reversal=false" />
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=4&section=footer" />
 
-## 🚀 About Me
-- Passionate about building **customer-facing web applications** with high availability.
-- Experienced in **scalable architectures** using serverless technologies (AWS Cognito, DynamoDB, S3) and CI/CD pipelines.
-- Focused on **frontend performance, database optimization, and API development**.
-- Advocate for **clean, test-driven, and maintainable code** with secure coding practices (OWASP).  
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> About Me </b>
 
----
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 350px></picture>
 
-## 💻 Technical Skills
+<br>
 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+- 🔭 Currently working as **Full-Stack Developer** at **[Blue Wave Labs](https://bluewavelabs.ca/)** on the **VerifyWise** project
+- 🌱 Passionate about **scalable architectures** and **serverless technologies**
+- 💡 Focused on **performance optimization** and **clean code practices**
+- 🛡️ Advocate for **secure coding** following **OWASP** guidelines
+- 📊 Experience with **high-availability systems** serving **10K+ users**
+- ⚡ Fun fact: I love optimizing database queries and API response times!
+- 🎯 **2024 Goals:** Master advanced AWS services & contribute to open source
+- 💬 Ask me about **React**, **TypeScript**, **Node.js**, or **AWS**!
+
+<br><br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
+## 🛠️ Tech Stack & Expertise
+*Based on my real projects and professional experience*
+
+<div align="center">
+
+### 🎯 Core Technologies (Most Used)
+![React](https://img.shields.io/badge/React_18-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript_ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+
+### 🎨 Frontend & Styling
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![Shadcn UI](https://img.shields.io/badge/Shadcn_UI-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
+
+### ⚙️ Backend & Database
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🔧 Tools & Libraries
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
+![Clerk](https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
+
+### ☁️ Cloud & Deployment
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
+
+### 🧪 Testing & DevOps  
+![Jest](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white)
+![React Testing Library](https://img.shields.io/badge/Testing_Library-E33332?style=for-the-badge&logo=testing-library&logoColor=white)
+![Sentry](https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+
+</div>
 
 ---
 
-## 🏢 Professional Experience
+## 💼 Professional Journey
 
-**Blue Wave Labs – Full-Stack Developer (Current)**  
-*Working on VerifyWise project*  
-- Developing full-stack features and improving scalability.
-- Designing seamless user interfaces and ensuring real-time data accuracy.
+<table>
+<tr>
+<td width="50%">
 
-**The Adaptavist Group – Associate Developer (Remote)**  
-*Oct 2021 - Nov 2024*  
-- Built 5+ web applications serving 10K+ monthly users with 99.9% uptime.
-- Improved user engagement by 25% with optimized UI/UX.
-- Architected AWS serverless solutions handling 500+ requests/minute.
-- Integrated 10+ third-party APIs and implemented CI/CD pipelines with Jest tests.
+### 🚀 Blue Wave Labs
+**Full-Stack Developer** | *Current*
 
-**Arshon Silicon Technology Inc. – Software Developer**  
-*Apr 2021 - Sep 2021*  
-- Developed 3+ web applications with ReactJS and NodeJS.
-- Optimized API response times by 40% and deployed scalable AWS infrastructure.
-- Implemented secure authentication with AWS Cognito.
+*VerifyWise Project*
+- 🛠️ Developing full-stack features & improving scalability
+- 🎨 Designing seamless user interfaces  
+- 📊 Ensuring real-time data accuracy
 
-**Concentrix Technologies Services – Technical Support Advisor**  
-*Dec 2020 - Mar 2021*  
-- Diagnosed and resolved 50+ software/system issues weekly.
-- Improved first-call resolution rate by 25% through documentation and guidance.
+</td>
+<td width="50%">
+
+### 🌐 The Adaptavist Group
+**Associate Developer** | *Oct 2021 - Nov 2024*
+
+*Remote - Enterprise Solutions*
+- 🏗️ Built **5+ web apps** serving **10K+ users** with **99.9% uptime**
+- 📈 Improved user engagement by **25%** with optimized UI/UX
+- ☁️ Architected AWS serverless solutions handling **500+ req/min**
+- 🔧 Integrated **10+ APIs** & implemented CI/CD pipelines
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### ⚡ Arshon Silicon Technology
+**Software Developer** | *Apr 2021 - Sep 2021*
+
+*Full-Stack Development*
+- 💻 Developed **3+ web applications** with React & Node.js
+- 🚀 Optimized API response times by **40%**
+- 🔐 Implemented secure authentication with AWS Cognito
+
+</td>
+<td width="50%">
+
+### 🛠️ Concentrix Technologies
+**Technical Support Advisor** | *Dec 2020 - Mar 2021*
+
+*Customer Solutions*
+- 🔍 Resolved **50+ issues weekly** with high accuracy
+- 📋 Improved first-call resolution rate by **25%**
+- 📚 Created comprehensive documentation & guidance
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/solan117)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/solan117)
-[![Blue Wave Labs](https://img.shields.io/badge/BlueWaveLabs-0055FF?style=for-the-badge)](https://bluewavelabs.ca/)
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🍽️ [Food Recipe App](https://github.com/solan117/food-app)
+
+<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/API-Spoonacular-orange" />
+
+A modern web app to explore delicious recipes with beautiful images, ingredient details, and cooking instructions.
+
+**Features:**
+- 🔍 Smart recipe search
+- 📱 Responsive design  
+- 🖼️ Beautiful recipe imagery
+- 📄 Detailed instructions
+
+[![View Project](https://img.shields.io/badge/View%20Project-FF5722?style=for-the-badge&logo=github&logoColor=white)](https://github.com/solan117/food-app)
+
+</td>
+<td width="50%">
+
+### 🌦️ [Klimate - Weather App](https://github.com/solan117/weather_app)
+
+<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
+
+A sleek weather app with real-time updates, forecasts, and interactive charts.
+
+**Features:**
+- ☀️ Real-time weather data
+- 📊 Interactive charts
+- 🌙 Dark mode support
+- ⭐ Favorite locations
+- 📱 5-day forecasts
+
+[![View Project](https://img.shields.io/badge/View%20Project-FF5722?style=for-the-badge&logo=github&logoColor=white)](https://github.com/solan117/weather_app)
+
+</td>
+</tr>
+<tr>
+<td colspan="2">
+
+### 💼 [Job Portal Web Application](https://github.com/solan117/Job-Board)
+
+<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/Clerk-6C47FF?style=flat&logo=clerk&logoColor=white" />
+
+A comprehensive full-stack job portal enabling seamless connections between recruiters and job seekers with modern authentication and resume management.
+
+**Key Features:**
+- 👔 **For Recruiters:** Post jobs, manage applications, candidate filtering
+- 🎯 **For Job Seekers:** Smart job search, application tracking, resume uploads  
+- 🔐 **Secure Auth:** Powered by Clerk authentication system
+- 📊 **Real-time Updates:** Live application status and notifications
+
+[![View Project](https://img.shields.io/badge/View%20Project-FF5722?style=for-the-badge&logo=github&logoColor=white)](https://github.com/solan117/Job-Board)
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📈 GitHub Stats
-![Karan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=solan117&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=solan117&layout=compact&theme=radical)
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> GitHub Analytics </b>
 
----
+<div align="center">
 
-I'm always excited about **building innovative SaaS products** and collaborating with teams to create **scalable, high-performance applications**. Let's connect!  
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=solan117&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=20&border_color=58A6FF"/>
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=solan117&custom_title=Karan's%20Activity%20Graph&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=false&border_radius=20&height=200" alt="Activity Graph" />
+
+</div>
+
+<div align="center">
+  
+### 🔥 GitHub Streak
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=solan117&theme=radical&hide_border=false&border_radius=20&background=0D1117&border=58A6FF" alt="GitHub Streak" />
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"> <b>Let's Connect & Collaborate!</b>
+
+<div align="center">
+  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=header&text=Ready%20to%20Build%20Something%20Amazing?&fontSize=25&fontColor=fff&animation=twinkling&fontAlignY=60" />
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://www.linkedin.com/in/solan117)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=FF5722)](https://bluewavelabs.ca/)
+[![Email](https://img.shields.io/badge/Email-Get%20In%20Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836)](mailto:your-email@example.com)
+
+<br/>
+
+### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50"> **Open to Opportunities**
+<img src="https://img.shields.io/badge/Full--Stack%20Development-FF6B6B?style=for-the-badge&logo=code&logoColor=white" />
+<img src="https://img.shields.io/badge/SaaS%20Solutions-4ECDC4?style=for-the-badge&logo=saas&logoColor=white" />
+<img src="https://img.shields.io/badge/Cloud%20Architecture-45B7D1?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+<img src="https://img.shields.io/badge/Performance%20Optimization-96CEB4?style=for-the-badge&logo=speedtest&logoColor=white" />
+
+<br/><br/>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Building%20the%20future,%20one%20scalable%20application%20at%20a%20time.&author=Karan%20Solanki" alt="Quote" />
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=solan117&label=Profile%20views&color=brightgreen&style=for-the-badge" alt="Profile views" />
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thanks%20for%20visiting!%20⭐%20Star%20some%20repos%20if%20you%20like%20my%20work&fontSize=18&fontColor=fff&animation=twinkling" />
+
+</div>  
