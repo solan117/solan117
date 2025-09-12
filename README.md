@@ -143,64 +143,86 @@
 
 ## 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%">
-
 ### 🍽️ [Food Recipe App](https://github.com/solan117/food-app)
 
-<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/API-Spoonacular-orange" />
+<div align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Spoonacular_API-FF6B35?style=for-the-badge&logo=api&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS_Modules-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</div>
 
-A modern web app to explore delicious recipes with beautiful images, ingredient details, and cooking instructions.
+A modern web app to explore delicious recipes with beautiful images, ingredient details, and cooking instructions. Built with React and powered by the Spoonacular API for comprehensive recipe data.
 
-**Features:**
-- 🔍 Smart recipe search
-- 📱 Responsive design  
-- 🖼️ Beautiful recipe imagery
-- 📄 Detailed instructions
+**✨ Key Features:**
+- 🔍 **Smart Recipe Search** - Find recipes by ingredients, cuisine, or dietary preferences
+- 📱 **Responsive Design** - Optimized for all devices and screen sizes
+- 🖼️ **High-Quality Images** - Beautiful food photography for every recipe
+- 📄 **Detailed Instructions** - Step-by-step cooking guidance
+- 🏷️ **Recipe Categories** - Browse by cuisine type and dietary restrictions
 
-[![View Project](https://img.shields.io/badge/View%20Project-FF5722?style=for-the-badge&logo=github&logoColor=white)](https://github.com/solan117/food-app)
+[![View Project](https://img.shields.io/badge/🔗_View_Project-FF5722?style=for-the-badge&logoColor=white)](https://github.com/solan117/food-app)
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-4CAF50?style=for-the-badge&logoColor=white)](#)
 
-</td>
-<td width="50%">
+---
 
 ### 🌦️ [Klimate - Weather App](https://github.com/solan117/weather_app)
 
-<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
+<div align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenWeatherMap-EB6E4B?style=for-the-badge&logo=weatherapi&logoColor=white" />
+</div>
 
-A sleek weather app with real-time updates, forecasts, and interactive charts.
+A sleek weather application built with React and TypeScript, featuring real-time weather updates, forecasts, and interactive data visualizations. Includes dark mode support and location-based weather detection.
 
-**Features:**
-- ☀️ Real-time weather data
-- 📊 Interactive charts
-- 🌙 Dark mode support
-- ⭐ Favorite locations
-- 📱 5-day forecasts
+**✨ Key Features:**
+- ☀️ **Real-Time Weather Data** - Current conditions and accurate forecasts
+- 📊 **Interactive Charts** - Visual representation of weather trends using Recharts
+- 🌙 **Dark/Light Mode** - Toggle between themes for better user experience
+- ⭐ **Favorite Locations** - Save and quickly access frequently checked cities
+- 📱 **5-Day Forecasts** - Extended weather predictions with hourly breakdowns
+- 📍 **Auto Location Detection** - Geolocation API for instant local weather
 
-[![View Project](https://img.shields.io/badge/View%20Project-FF5722?style=for-the-badge&logo=github&logoColor=white)](https://github.com/solan117/weather_app)
+[![View Project](https://img.shields.io/badge/🔗_View_Project-FF5722?style=for-the-badge&logoColor=white)](https://github.com/solan117/weather_app)
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-4CAF50?style=for-the-badge&logoColor=white)](#)
 
-</td>
-</tr>
-<tr>
-<td colspan="2">
+---
 
 ### 💼 [Job Portal Web Application](https://github.com/solan117/Job-Board)
 
-<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/Clerk-6C47FF?style=flat&logo=clerk&logoColor=white" />
+<div align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white" />
+</div>
 
-A comprehensive full-stack job portal enabling seamless connections between recruiters and job seekers with modern authentication and resume management.
+A comprehensive full-stack job portal that connects recruiters with job seekers through a modern, intuitive platform. Features secure authentication, real-time notifications, and advanced filtering capabilities.
 
-**Key Features:**
-- 👔 **For Recruiters:** Post jobs, manage applications, candidate filtering
-- 🎯 **For Job Seekers:** Smart job search, application tracking, resume uploads  
-- 🔐 **Secure Auth:** Powered by Clerk authentication system
-- 📊 **Real-time Updates:** Live application status and notifications
+**✨ Key Features:**
 
-[![View Project](https://img.shields.io/badge/View%20Project-FF5722?style=for-the-badge&logo=github&logoColor=white)](https://github.com/solan117/Job-Board)
+**👔 For Recruiters:**
+- 📝 **Job Posting Management** - Create, edit, and manage job listings
+- 👥 **Candidate Filtering** - Advanced search and filtering tools
+- 📊 **Application Tracking** - Monitor application status and candidate progress
+- 📧 **Automated Notifications** - Email updates for new applications
 
-</td>
-</tr>
-</table>
+**🎯 For Job Seekers:**
+- 🔍 **Smart Job Search** - Filter by location, salary, experience level
+- 📄 **Resume Upload** - Secure document storage with Cloudinary
+- 📱 **Application Tracking** - Real-time status updates on applications
+- ⭐ **Job Bookmarks** - Save interesting positions for later review
+
+**🔐 Technical Highlights:**
+- **Secure Authentication** - Powered by Clerk with role-based access
+- **Real-Time Updates** - Live notifications and status changes
+- **Responsive Design** - Optimized for desktop and mobile devices
+- **Error Monitoring** - Sentry integration for production reliability
+
+[![View Project](https://img.shields.io/badge/🔗_View_Project-FF5722?style=for-the-badge&logoColor=white)](https://github.com/solan117/Job-Board)
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-4CAF50?style=for-the-badge&logoColor=white)](#)
 
 ---
 
@@ -208,21 +230,14 @@ A comprehensive full-stack job portal enabling seamless connections between recr
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=solan117&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=20&border_color=58A6FF"/>
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=solan117&custom_title=Karan's%20Activity%20Graph&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=false&border_radius=20&height=200" alt="Activity Graph" />
-
-</div>
-
-<div align="center">
-  
-### 🔥 GitHub Streak
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=solan117&theme=radical&hide_border=false&border_radius=20&background=0D1117&border=58A6FF" alt="GitHub Streak" />
+<img height="200" src="https://github-readme-stats.vercel.app/api?username=solan117&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=20&border_color=58A6FF"/>
+<img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=solan117&theme=radical&hide_border=false&border_radius=20&background=0D1117&border=58A6FF" alt="GitHub Streak" />
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"> <b>Let's Connect & Collaborate!</b>
+## 🤝 <b>Let's Connect & Collaborate!</b>
 
 <div align="center">
   
@@ -232,7 +247,7 @@ A comprehensive full-stack job portal enabling seamless connections between recr
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://www.linkedin.com/in/solan117)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=FF5722)](https://bluewavelabs.ca/)
-[![Email](https://img.shields.io/badge/Email-Get%20In%20Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836)](mailto:your-email@example.com)
+[![Email](https://img.shields.io/badge/Email-Get%20In%20Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836)](mailto:solankikaran090@gmail.com)
 
 <br/>
 
