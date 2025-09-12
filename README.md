@@ -1,12 +1,11 @@
 <div align="center">
   
-  # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"> Hey there, I'm Karan Solanki! 
+  # 👋 Hey there, I'm Karan Solanki
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=header&text=Full-Stack%20Developer&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=32" />
+  ### 🚀 Full-Stack Developer
+  ### 💻 Problem Solver • 🌟 Tech Enthusiast • ⚡ Performance Optimizer
   
-  ### 💻 Problem Solver • 🚀 Tech Enthusiast • ⚡ Performance Optimizer
-  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=🌟+Building+scalable+web+applications;🎯+4%2B+years+of+full-stack+experience;⚛️+React+%7C+TypeScript+%7C+Node.js+%7C+AWS;🔥+Always+learning+and+growing!&color=58A6FF" alt="Typing SVG" />
+   **🎯 Building scalable web applications | 4+ years of experience | ⚛️ React • JavaScript • Node.js • AWS | 🔥 Always learning!**
   
 </div>
 
@@ -18,13 +17,11 @@
   
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,6,17,11&height=40&section=footer&reversal=false" />
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=4&section=footer" />
+---
 
 ## 👨‍💻 **About Me**
 
-I'm a **Full-Stack SaaS Engineer** who loves turning complex problems into elegant, scalable web applications. I build with **React**, **TypeScript**, **Node.js**, and **AWS**, crafting both frontend magic and robust backend systems.
+I'm a **Full-Stack SaaS Engineer** who loves turning complex problems into elegant, scalable web applications. I build with **React**, **JavaScript**, **Node.js**, and **AWS**, crafting both frontend magic and robust backend systems.
 
 Currently, I'm creating impact at **[Blue Wave Labs](https://bluewavelabs.ca/)** on the **VerifyWise** project, optimizing real-time workflows and building features that scale.
 
@@ -34,7 +31,7 @@ Currently, I'm creating impact at **[Blue Wave Labs](https://bluewavelabs.ca/)**
 - **Fun Fact:** I thrive on solving tough problems and learning new tech every day
 - **2025 Goal:** Contribute to open source and level up my skills continuously
 
-**💬 Ask me about:** React, TypeScript, Node.js, or building scalable apps
+**💬 Ask me about:** React, JavaScript, Node.js, or building scalable apps
 
 ---
 
@@ -46,8 +43,8 @@ Currently, I'm creating impact at **[Blue Wave Labs](https://bluewavelabs.ca/)**
 **🎯 Languages & Frameworks**
 
 ![React](https://img.shields.io/badge/React_18-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript_ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 
@@ -227,12 +224,9 @@ A comprehensive full-stack job portal that connects recruiters with job seekers 
 💫 **"From lines of code to seamless user experiences."**  
 *— Karan Solanki*
 
-<br/>
 
-<img src="https://komarev.com/ghpvc/?username=solan117&label=Profile%20views&color=brightgreen&style=for-the-badge" alt="Profile views" />
+![Profile Views](https://komarev.com/ghpvc/?username=solan117&label=Profile%20views&color=brightgreen&style=for-the-badge)
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thanks%20for%20visiting!%20⭐%20Star%20some%20repos%20if%20you%20like%20my%20work&fontSize=18&fontColor=fff&animation=twinkling" />
+### 🙏 Thanks for visiting! ⭐ Star some repos if you like my work!
 
 </div>  
