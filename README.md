@@ -26,23 +26,23 @@
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 350px></picture>
 
-<br>
+I'm a **Full-Stack SaaS Engineer** who loves turning complex problems into elegant, scalable web applications. I build with **React**, **TypeScript**, **Node.js**, and **AWS**, crafting both frontend magic and robust backend systems.
 
-- 🔭 Currently working as **Full-Stack Developer** at **[Blue Wave Labs](https://bluewavelabs.ca/)** on the **VerifyWise** project
-- 🌱 Passionate about **scalable architectures** and **serverless technologies**
-- 💡 Focused on **performance optimization** and **clean code practices**
-- 🛡️ Advocate for **secure coding** following **OWASP** guidelines
-- 📊 Experience with **high-availability systems** serving **10K+ users**
-- ⚡ Fun fact: I love optimizing database queries and API response times!
-- 🎯 **2024 Goals:** Master advanced AWS services & contribute to open source
-- 💬 Ask me about **React**, **TypeScript**, **Node.js**, or **AWS**!
+Currently, I'm creating impact at **[Blue Wave Labs](https://bluewavelabs.ca/)** on the **VerifyWise** project, optimizing real-time workflows and building features that scale.
+
+**⚡ Fun Facts & Focus**
+- Passionate about **performance**, **clean code**, and **user-centered design**
+- Exploring **System Design**, **distributed architectures**, and **modern web tech**
+- **Fun Fact:** I thrive on solving tough problems and learning new tech every day
+- **2025 Goal:** Contribute to open source and level up my skills continuously
+
+**💬 Ask me about:** React, TypeScript, Node.js, or building scalable apps
 
 <br><br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 ## 🛠️ Tech Stack & Expertise
-*Based on my real projects and professional experience*
 
 <div align="center">
 
@@ -87,57 +87,23 @@
 
 ## 💼 Professional Journey
 
-<table>
-<tr>
-<td width="50%">
-
 ### 🚀 Blue Wave Labs
-**Full-Stack Developer** | *Current*
+**Full-Stack Developer** | *Aug 2025 - Current*
 
-*VerifyWise Project*
-- 🛠️ Developing full-stack features & improving scalability
-- 🎨 Designing seamless user interfaces  
-- 📊 Ensuring real-time data accuracy
-
-</td>
-<td width="50%">
+---
 
 ### 🌐 The Adaptavist Group
 **Associate Developer** | *Oct 2021 - Nov 2024*
 
-*Remote - Enterprise Solutions*
-- 🏗️ Built **5+ web apps** serving **10K+ users** with **99.9% uptime**
-- 📈 Improved user engagement by **25%** with optimized UI/UX
-- ☁️ Architected AWS serverless solutions handling **500+ req/min**
-- 🔧 Integrated **10+ APIs** & implemented CI/CD pipelines
-
-</td>
-</tr>
-<tr>
-<td width="50%">
+---
 
 ### ⚡ Arshon Silicon Technology
 **Software Developer** | *Apr 2021 - Sep 2021*
 
-*Full-Stack Development*
-- 💻 Developed **3+ web applications** with React & Node.js
-- 🚀 Optimized API response times by **40%**
-- 🔐 Implemented secure authentication with AWS Cognito
-
-</td>
-<td width="50%">
+---
 
 ### 🛠️ Concentrix Technologies
 **Technical Support Advisor** | *Dec 2020 - Mar 2021*
-
-*Customer Solutions*
-- 🔍 Resolved **50+ issues weekly** with high accuracy
-- 📋 Improved first-call resolution rate by **25%**
-- 📚 Created comprehensive documentation & guidance
-
-</td>
-</tr>
-</table>
 
 ---
 
