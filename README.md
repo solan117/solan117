@@ -211,7 +211,7 @@ A comprehensive full-stack job portal that connects recruiters with job seekers 
 
 ### 🚀 **Open to Opportunities**
 
-**💻 Full-Stack Development** • **☁️ Cloud Architecture** • **⚡ Performance Optimization** • **🏢 SaaS Solutions**
+**💻 Full-Stack Developer** • **⚙️ Backend Developer** • **🎨 Frontend Developer**
 
 ---
 
