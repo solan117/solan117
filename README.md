@@ -2,7 +2,7 @@
   
   # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"> Hey there, I'm Karan Solanki! 
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=header&text=Full-Stack%20SaaS%20Engineer&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=32" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=header&text=Full-Stack%20Developer&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=32" />
   
   ### 💻 Problem Solver • 🚀 Tech Enthusiast • ⚡ Performance Optimizer
   
