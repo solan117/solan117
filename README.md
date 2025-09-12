@@ -22,9 +22,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=4&section=footer" />
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> About Me </b>
-
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 350px></picture>
+## 👨‍💻 **About Me**
 
 I'm a **Full-Stack SaaS Engineer** who loves turning complex problems into elegant, scalable web applications. I build with **React**, **TypeScript**, **Node.js**, and **AWS**, crafting both frontend magic and robust backend systems.
 
@@ -38,9 +36,7 @@ Currently, I'm creating impact at **[Blue Wave Labs](https://bluewavelabs.ca/)**
 
 **💬 Ask me about:** React, TypeScript, Node.js, or building scalable apps
 
-<br><br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+---
 
 ## 🛠️ Tech Stack & Expertise
 
@@ -127,7 +123,7 @@ A modern web app to explore delicious recipes with beautiful images, ingredient 
 - 🏷️ **Recipe Categories** - Browse by cuisine type and dietary restrictions
 
 [![View Project](https://img.shields.io/badge/🔗_View_Project-FF5722?style=for-the-badge&logoColor=white)](https://github.com/solan117/food-app)
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-4CAF50?style=for-the-badge&logoColor=white)](#)
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-4CAF50?style=for-the-badge&logoColor=white)](https://food-app-phi-three.vercel.app/)
 
 ---
 
@@ -151,7 +147,7 @@ A sleek weather application built with React and TypeScript, featuring real-time
 - 📍 **Auto Location Detection** - Geolocation API for instant local weather
 
 [![View Project](https://img.shields.io/badge/🔗_View_Project-FF5722?style=for-the-badge&logoColor=white)](https://github.com/solan117/weather_app)
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-4CAF50?style=for-the-badge&logoColor=white)](#)
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-4CAF50?style=for-the-badge&logoColor=white)](https://weatherapp-psi-three.vercel.app/)
 
 ---
 
@@ -188,11 +184,11 @@ A comprehensive full-stack job portal that connects recruiters with job seekers 
 - **Error Monitoring** - Sentry integration for production reliability
 
 [![View Project](https://img.shields.io/badge/🔗_View_Project-FF5722?style=for-the-badge&logoColor=white)](https://github.com/solan117/Job-Board)
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-4CAF50?style=for-the-badge&logoColor=white)](#)
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-4CAF50?style=for-the-badge&logoColor=white)](https://job-board-client-amber.vercel.app/)
 
 ---
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> GitHub Analytics </b>
+## 📈 **GitHub Analytics**
 
 <div align="center">
 
@@ -201,31 +197,26 @@ A comprehensive full-stack job portal that connects recruiters with job seekers 
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
-## 🤝 <b>Let's Connect & Collaborate!</b>
+## 🤝 **Let's Connect & Collaborate!**
 
 <div align="center">
-  
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=header&text=Ready%20to%20Build%20Something%20Amazing?&fontSize=25&fontColor=fff&animation=twinkling&fontAlignY=60" />
 
-<br/>
+### 💼 Ready to Build Something Amazing Together?
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://www.linkedin.com/in/solan117)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=FF5722)](https://bluewavelabs.ca/)
-[![Email](https://img.shields.io/badge/Email-Get%20In%20Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836)](mailto:solankikaran090@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/solan117)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://bluewavelabs.ca/)
+[![Email](https://img.shields.io/badge/📧_Email-Get_In_Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:solankikaran090@gmail.com)
 
-<br/>
+### 🚀 **Open to Opportunities**
 
-### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50"> **Open to Opportunities**
-<img src="https://img.shields.io/badge/Full--Stack%20Development-FF6B6B?style=for-the-badge&logo=code&logoColor=white" />
-<img src="https://img.shields.io/badge/SaaS%20Solutions-4ECDC4?style=for-the-badge&logo=saas&logoColor=white" />
-<img src="https://img.shields.io/badge/Cloud%20Architecture-45B7D1?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-<img src="https://img.shields.io/badge/Performance%20Optimization-96CEB4?style=for-the-badge&logo=speedtest&logoColor=white" />
+**💻 Full-Stack Development** • **☁️ Cloud Architecture** • **⚡ Performance Optimization** • **🏢 SaaS Solutions**
 
-<br/><br/>
+---
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Building%20the%20future,%20one%20scalable%20application%20at%20a%20time.&author=Karan%20Solanki" alt="Quote" />
+💫 **"From lines of code to seamless user experiences."**  
+*— Karan Solanki*
 
 <br/>
 
