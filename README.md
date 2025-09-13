@@ -10,14 +10,10 @@
 </div>
 
 <div align="center">
-
-  <a href="https://www.linkedin.com/in/solan117" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn">
-  </a>
-  <a href="https://github.com/solan117" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="GitHub">
-  </a>
-
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://www.linkedin.com/in/solan117)
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717)](https://github.com/solan117)
+  
 </div>
 
 ---
@@ -26,7 +22,7 @@
 
 I'm a **Full-Stack SaaS Engineer** who loves turning complex problems into elegant, scalable web applications. I build with **React**, **JavaScript**, **Node.js**, and **AWS**, crafting both frontend magic and robust backend systems.
 
-Currently, I'm creating impact at **<a href="https://bluewavelabs.ca/" target="_blank">Blue Wave Labs</a>** on the **VerifyWise** project, optimizing real-time workflows and building features that scale.
+Currently, I'm creating impact at **[Blue Wave Labs](https://bluewavelabs.ca/)** on the **VerifyWise** project, optimizing real-time workflows and building features that scale.
 
 **⚡ Fun Facts & Focus**
 - Passionate about **performance**, **clean code**, and **user-centered design**
@@ -90,31 +86,9 @@ Currently, I'm creating impact at **<a href="https://bluewavelabs.ca/" target="_
 
 ---
 
-## 💼 Professional Journey
-
-### 🚀 Blue Wave Labs
-**Full-Stack Developer** | *Aug 2025 - Current*
-
----
-
-### 🌐 The Adaptavist Group
-**Associate Developer** | *Oct 2021 - Nov 2024*
-
----
-
-### ⚡ Arshon Silicon Technology
-**Software Developer** | *Apr 2021 - Sep 2021*
-
----
-
-### 🛠️ Concentrix Technologies
-**Technical Support Advisor** | *Dec 2020 - Mar 2021*
-
----
-
 ## 🚀 Featured Projects
 
-### 🍽️ <a href="https://github.com/solan117/food-app" target="_blank">Food Recipe App</a>
+### 🍽️ [Food Recipe App](https://github.com/solan117/food-app)
 
 <div align="left">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -131,16 +105,12 @@ A modern web app to explore delicious recipes with beautiful images, ingredient 
 - 📄 **Detailed Instructions** - Step-by-step cooking guidance
 - 🏷️ **Recipe Categories** - Browse by cuisine type and dietary restrictions
 
-<a href="https://github.com/solan117/food-app" target="_blank">
-  <img src="https://img.shields.io/badge/🔗_View_Project-FF5722?style=for-the-badge&logoColor=white" alt="View Project">
-</a>
-<a href="https://food-app-phi-three.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/🌐_Live_Demo-4CAF50?style=for-the-badge&logoColor=white" alt="Live Demo">
-</a>
+[![View Project](https://img.shields.io/badge/🔗_View_Project-FF5722?style=for-the-badge&logoColor=white)](https://github.com/solan117/food-app)
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-4CAF50?style=for-the-badge&logoColor=white)](https://food-app-phi-three.vercel.app/)
 
 ---
 
-### 🌦️ <a href="https://github.com/solan117/weather_app" target="_blank">Klimate - Weather App</a>
+### 🌦️ [Klimate - Weather App](https://github.com/solan117/weather_app)
 
 <div align="left">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -159,16 +129,12 @@ A sleek weather application built with React and TypeScript, featuring real-time
 - 📱 **5-Day Forecasts** - Extended weather predictions with hourly breakdowns
 - 📍 **Auto Location Detection** - Geolocation API for instant local weather
 
-<a href="https://github.com/solan117/weather_app" target="_blank">
-  <img src="https://img.shields.io/badge/🔗_View_Project-FF5722?style=for-the-badge&logoColor=white" alt="View Project">
-</a>
-<a href="https://weatherapp-psi-three.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/🌐_Live_Demo-4CAF50?style=for-the-badge&logoColor=white" alt="Live Demo">
-</a>
+[![View Project](https://img.shields.io/badge/🔗_View_Project-FF5722?style=for-the-badge&logoColor=white)](https://github.com/solan117/weather_app)
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-4CAF50?style=for-the-badge&logoColor=white)](https://weatherapp-psi-three.vercel.app/)
 
 ---
 
-### 💼 <a href="https://github.com/solan117/Job-Board" target="_blank">Job Portal Web Application</a>
+### 💼 [Job Portal Web Application](https://github.com/solan117/Job-Board)
 
 <div align="left">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -200,12 +166,8 @@ A comprehensive full-stack job portal that connects recruiters with job seekers 
 - **Responsive Design** - Optimized for desktop and mobile devices
 - **Error Monitoring** - Sentry integration for production reliability
 
-<a href="https://github.com/solan117/Job-Board" target="_blank">
-  <img src="https://img.shields.io/badge/🔗_View_Project-FF5722?style=for-the-badge&logoColor=white" alt="View Project">
-</a>
-<a href="https://job-board-client-amber.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/🌐_Live_Demo-4CAF50?style=for-the-badge&logoColor=white" alt="Live Demo">
-</a>
+[![View Project](https://img.shields.io/badge/🔗_View_Project-FF5722?style=for-the-badge&logoColor=white)](https://github.com/solan117/Job-Board)
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-4CAF50?style=for-the-badge&logoColor=white)](https://job-board-client-amber.vercel.app/)
 
 ---
 
@@ -226,12 +188,8 @@ A comprehensive full-stack job portal that connects recruiters with job seekers 
 
 ### 💼 Ready to Build Something Amazing Together?
 
-<a href="https://www.linkedin.com/in/solan117" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/💼_LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-<a href="mailto:solankikaran090@gmail.com" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/📧_Email-Get_In_Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-</a>
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/solan117)
+[![Email](https://img.shields.io/badge/📧_Email-Get_In_Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:solankikaran090@gmail.com)
 
 ### 🚀 **Open to Opportunities**
 
