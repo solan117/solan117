@@ -114,6 +114,18 @@ window.addEventListener("load", () => {
   }, 500);
 });
 
+// EmailJS Configuration - Load from environment or use defaults
+const EMAILJS_CONFIG = {
+  publicKey: process.env.EMAILJS_PUBLIC_KEY || "ros8wyhE5_MgbUkdf",
+  serviceId: process.env.EMAILJS_SERVICE_ID || "service_bl2k252",
+  templateId: process.env.EMAILJS_TEMPLATE_ID || "template_y34ys8o"
+};
+
+// Initialize EmailJS
+(function () {
+  emailjs.init(EMAILJS_CONFIG.publicKey);
+})();
+
 // Contact form handling
 const contactForm = document.getElementById("contactForm");
 
@@ -137,12 +149,43 @@ contactForm.addEventListener("submit", function (e) {
     return;
   }
 
-  // Simulate form submission (in real app, you'd send this to a server)
-  showNotification(
-    "Message sent successfully! I'll get back to you soon.",
-    "success",
-  );
-  contactForm.reset();
+  // Show sending message
+  const submitButton = contactForm.querySelector('button[type="submit"]');
+  const originalText = submitButton.textContent;
+  submitButton.textContent = "Sending...";
+  submitButton.disabled = true;
+
+  // Send email using EmailJS
+  emailjs
+    .send(
+      EMAILJS_CONFIG.serviceId,
+      EMAILJS_CONFIG.templateId,
+      {
+        from_name: name,
+        from_email: email,
+        message: message,
+        to_name: "Karan Solanki",
+      },
+    )
+    .then(function (response) {
+      showNotification(
+        "Message sent successfully! I'll get back to you soon.",
+        "success",
+      );
+      contactForm.reset();
+    })
+    .catch(function (error) {
+      showNotification(
+        "Failed to send message. Please try again or contact me directly.",
+        "error",
+      );
+      console.error("EmailJS error:", error);
+    })
+    .finally(function () {
+      // Reset button
+      submitButton.textContent = originalText;
+      submitButton.disabled = false;
+    });
 });
 
 // Email validation helper
