@@ -310,7 +310,11 @@ window.addEventListener("load", () => {
 // Dark mode toggle (optional feature)
 function createDarkModeToggle() {
   const toggle = document.createElement("button");
-  toggle.innerHTML = "🌙";
+
+  // Enable dark mode by default
+  document.body.classList.add("dark-mode");
+  toggle.innerHTML = "☀️"; // Start with sun icon since dark mode is active
+
   toggle.className = "dark-mode-toggle";
   toggle.style.cssText = `
         position: fixed;
