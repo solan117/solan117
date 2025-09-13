@@ -13,7 +13,6 @@
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://www.linkedin.com/in/solan117)
   [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717)](https://github.com/solan117)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=FF5722)](https://bluewavelabs.ca/)
   
 </div>
 
@@ -212,7 +211,6 @@ A comprehensive full-stack job portal that connects recruiters with job seekers 
 ### 💼 Ready to Build Something Amazing Together?
 
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/solan117)
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://bluewavelabs.ca/)
 [![Email](https://img.shields.io/badge/📧_Email-Get_In_Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:solankikaran090@gmail.com)
 
 ### 🚀 **Open to Opportunities**
