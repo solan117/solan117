@@ -20,7 +20,7 @@
 
 ## 👨‍💻 **About Me**
 
-I'm a **Full-Stack SaaS Engineer** who loves turning complex problems into elegant, scalable web applications. I build with **React**, **JavaScript**, **Node.js**, and **AWS**, crafting both frontend magic and robust backend systems.
+I'm a **Full-Stack Engineer** who loves turning complex problems into elegant, scalable web applications. I build with **React**, **JavaScript**, **Node.js**, and **AWS**, crafting both frontend magic and robust backend systems.
 
 Currently, I'm creating impact at **[Blue Wave Labs](https://bluewavelabs.ca/)** on the **VerifyWise** project, optimizing real-time workflows and building features that scale.
 
